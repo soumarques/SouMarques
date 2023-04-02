@@ -17,7 +17,7 @@ Olá pessoal🎉
 
 🎮 Amo Jogar progamar e andar de skate
 
-📚 Atualmente estou estudando para ingressar como Front-end neste imenso mercado, a 1 ano atrás comecei a progamar por curiosidade so pra testar e por acaso acabei me apaixonando por todos aqueles codigos malucos.
+📚 Atualmente estou estudando para ingressar como Front-end no mercado da progamação, a 1 ano atrás comecei a progamar por curiosidade so pra testar e por acaso acabei me apaixonando por todos aqueles codigos malucos.
 
 
 
