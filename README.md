@@ -1,36 +1,21 @@
-⬇SEJA BEM VINDO(A)⬇
+⬇SEJA BEM VINDOS
 
-<----------------------------------------------------⬇ALGUMAS LINGUAGENS⬇---------------------------------------------------------------->
 <div style="display: inline_block"><br>
   <img align="center" alt="Marques-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marques-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marques-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<--------------------------------------------------------⬇CURIOSIDADES⬇------------------------------------------------------------------>
+Hey guys
 
-Olá pessoal🎉
+🏅 My name is Ian Marques
 
-🏅 Meu nome e Ian Marques.
+💻 Studying Computer Science.
 
-💻Estudando Ciência da computação.
-
-🎮 Amo Jogar progamar e andar de skate
-
-📚 Atualmente estou estudando para ingressar no mercado da progamação, a 1 ano atrás comecei a progamar por curiosidade so pra testar e por acaso acabei me apaixonando por todos aqueles códigos malucos.
-
-
-
-<----------------------------------------------------⬇MINHAS REDES SOCIAIS⬇--------------------------------------------------------------->
-  
- 
+📚 I am currently studying to enter the programming market. It's been a while since I started programming out of curiosity just to test it out and by chance I ended up falling in love with all those crazy codes.
 <div> 
  <a href="https://instagram.com/_soumarques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ian-marques-4313a220a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ianmarquesbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@soumarques" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
- 
- 
- 
-<-------------------------------------------⬇OBRIGADO PELA VISITA, VOLTE SEMPRE⬇-------------------------------------------------->  
 </div>
