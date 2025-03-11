@@ -26,6 +26,20 @@ Hey guys
   <a href = "mailto:ianmarquesbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@soumarques" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
+  ##
   
+  <h2>ACHIEVEMENTS🏅 </h2> 
+  
+  Introdução ao Java Cloud Native com o Bradesco / Introduction to Java Cloud Native with Bradesco
+ <img align="center" alt="Marques" height="50" width="50" src="https://assets.dio.me/fLju5Ngs3NFOYYJCC0NkY65hls16romjas7D0pc93xQ/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvMDYwYzYwM2YtMjlhNi00ZGUxLTg5ODItZjA0ZTNhN2I5MmIwLnBuZw">
+
+Introdução à Plataforma Java / Introduction to the Java Platform
+  <img align="center" alt="Marques" height="45" width="45" src="https://assets.dio.me/PoFI1Ec4yI3wa9TPguj8PW4otvxpA1-4pj5-2MIK0ME/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNTU4MTUxMTctNDkyMC00NTA4LWI1ZTgtOGM5N2I4OWY0NjU2LnBuZw">
+
+Desafios de Projetos: Crie Um Portfólio Vencedor / Project Challenges: Create a Winning Portfolio
+<img align="center" alt="Marques" height="45" width="45" src="https://assets.dio.me/xjNonTGRY4-Z-QL74JRwhrGZEGQ6d9Y2K2AyO_ff9AI/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYTc3YzAzZTEtMGMzYi00OWM0LWI2YjgtZTAwMmNiYzRiZjkwLnBuZw">
+
+ Versionamento de Código com Git e GitHub / Code Versioning with Git and GitHub
+  <img align="center" alt="Marques" height="45" width="45" src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw">
   
 </div>
