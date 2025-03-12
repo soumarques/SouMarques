@@ -1,8 +1,6 @@
-<div style="display: inline_block"><br>
-  
 </div>
 
-Hey guys
+<h3>Hey guys👻</h3>
 
 🏅 My name is Ian Marques
 
@@ -43,5 +41,9 @@ Desafios de Projetos: Crie Um Portfólio Vencedor / Project Challenges: Create a
 
  Versionamento de Código com Git e GitHub / Code Versioning with Git and GitHub
   <img align="center" alt="Marques" height="45" width="45" src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw">
+
+  Contribuindo em um Projeto Open Source no GitHub / Contributing to an Open Source Project on GitHub
+  <img align="center" alt="Marques" height="45" width="45" src="https://assets.dio.me/QWLNTPJGzWfIYX7uY0yv6n-TpSU7IyPazZU-sI01bjY/f:webp/q:80/w:120/L2xhYl9wcm9qZWN0cy9iYWRnZXMvZTgzMTEyMTAtZjRjNi00Yzg0LTlkODItMzE1ZWQxM2ZmMDI3LnBuZw">
+
   
 </div>
