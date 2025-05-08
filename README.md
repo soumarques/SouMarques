@@ -1,15 +1,10 @@
-</div>
-
-<h3>Hey guys👻</h3>
-
-🏅 My name is Ian Marques
-
-💻 Studying Computer Science.
-
-📚 I am currently studying to enter the programming market. It's been a while since I started programming out of curiosity just to test it out and by chance I ended up falling in love with all those crazy codes.
-<div> 
+<h1>SKILLS👨🏽‍💻</h1>
 
   ![Ícones de Habilidades](https://skillicons.dev/icons?i=html,css,js,react,git,node)
+  
+<h1>EXECUTIONS⚙</h1>
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ##
   
