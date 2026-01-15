@@ -1,10 +1,14 @@
 <h1>SKILLS👨🏽‍💻</h1>
 
-  ![Ícones de Habilidades](https://skillicons.dev/icons?i=html,css,js,react,git,node)
+  ![Ícones de Habilidades](https://skillicons.dev/icons?i=java,c,python,git)
   
 <h1>EXECUTIONS⚙</h1>
   
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+<img width="50" height="80" alt="image" src="https://github.com/user-attachments/assets/1c12c7e2-f291-4e8a-9da1-fabdc0eeb272" />
+
+
+
 
 ##
   
