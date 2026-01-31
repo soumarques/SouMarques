@@ -1,6 +1,6 @@
 <h1>SKILLS👨🏽‍💻</h1>
 
-  ![Ícones de Habilidades](https://skillicons.dev/icons?i=java,c,python,css,html,javascript,git)
+  ![Ícones de Habilidades](https://skillicons.dev/icons?i=java,css,html,javascript,git)
   
 <h1>EXECUTIONS⚙</h1>
   
